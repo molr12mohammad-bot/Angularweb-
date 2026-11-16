@@ -1,0 +1,13 @@
+[1mdiff --git a/src/index.html b/src/index.html[m
+[1mindex e2044d9..01be94c 100644[m
+[1m--- a/src/index.html[m
+[1m+++ b/src/index.html[m
+[36m@@ -11,7 +11,7 @@[m
+ </head>[m
+ <body>[m
+   <app-root>[m
+[31m-    <h1>Dashboard: Team Beta</h1> [m
+[32m+[m[32m    <h1>Dashboard: Team footer</h1>[m[41m [m
+   </app-root>[m
+ </body>[m
+ </html>[m
